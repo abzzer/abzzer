@@ -8,8 +8,8 @@ Currently studying a CS degree
 
 *   🌍  I'm based in United Kingdom.
 *   🖥️  See my portfolio at [Devpost](http://https://devpost.com/alemamsha)
-*   ✉️  You can contact me at [LinkedIn] (https://www.linkedin.com/in/alemamsha/)
-*   🚀  I'm currently working on [Globe Gates]
+*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/alemamsha/)
+*   🚀  I'm currently working on **Globe Gates**
 *   🧠  I'm learning AWS.
 *   🤝  I'm open to collaborating on Machine Learning projects.### Skills 
 <p align="left">
