@@ -1,7 +1,7 @@
-Hi 👋 My name is Abdel
+Hi 👋, My name is Abdel
 ====================================
 
-*   🌍  Based in the UK.
+*   🌍  Based in Manchester, UK.
 *   🎓  Studying a CS degree.
 *   🤖  Distributed systems?!??!
 *   👨‍💻 Infrasture engineer @ ....
