@@ -1,10 +1,10 @@
 Hi 👋, My name is Abdel
 ====================================
 
-*   🌍  Based in Manchester, UK.
-*   🎓  Studying a CS degree.
-*   🤖  Distributed systems?!??!
-*   👨‍💻 SWE @ ....
+*   🌍  Based in London.
+*   👨‍💻 Product Engineer @ Incident.io
+*   🎓  Final year CS @ University of Manchester.
+
     
 ### Socials
 
