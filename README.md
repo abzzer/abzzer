@@ -1,10 +1,8 @@
 Hi 👋, My name is Abdel
 ====================================
 
-*   👨‍💻 Product Engineer @ Incident.io.
-*   🛠️ Research (Dissertation) Engineer @ Lyceum.
-*   🎓 Final year CS @ University of Manchester.
-
+*   👨‍💻 SWE
+*   🌍 London
     
 ### Socials
 
